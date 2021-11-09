@@ -1,0 +1,10 @@
+{
+    "name": "skipy/loan-module",
+    "authors": [
+        {
+            "name": "skipy",
+            "email": "skipy@skipy.hu"
+        }
+    ],
+    "require": {}
+}
